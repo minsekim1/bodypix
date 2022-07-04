@@ -14,7 +14,7 @@ const pc_config = {
     },
   ],
 };
-const SOCKET_SERVER_URL = "https://ec2-3-36-135-151.ap-northeast-2.compute.amazonaws.com:8080";//"http://localhost:8080";
+const SOCKET_SERVER_URL = ["https://ec2-3-36-135-151.ap-northeast-2.compute.amazonaws.com:8080","http://localhost:8080"][1]
 
 const App = () => {
   const socketRef = useRef<SocketIOClient.Socket>();
