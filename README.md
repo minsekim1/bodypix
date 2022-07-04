@@ -26,9 +26,9 @@ npm start
 ```
 
 ### More Details are in my blog...
-- [Korean](https://millo-l.github.io/WebRTC-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-1-P2P/)
-- [English](https://millo-l.github.io/Implementing-WebRTC-using-ReactJS-and-Typescript-1-1-P2P/)
-  
+
+  ![KakaoTalk_20220705_013452237](https://user-images.githubusercontent.com/23623248/177193464-3c02ffcb-a741-4ce3-84db-734c72dcd37f.png)
+
 
 ### Next Upload is...
 - 1:N communication (peer to peer) https://github.com/Seung3837/Typescript-ReactJS-WebRTC-1-N-P2P
